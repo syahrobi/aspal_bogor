@@ -4,9 +4,9 @@ const Kontak = () => {
 
     return (
         <div>
-            <Header title='Jasa Pengaspalan Bogor 🛣️'/>
+            <Header title='Jasa Pengaspalan Jalan 🛣️'/>
             <div className='meal-container'>
-            <a href="https://wa.me/082123927180" title="Hubungi Admin">
+            <a href="https://wa.me/62082123927180" title="Hubungi Admin">
                 <div className="grid grid-cols-1 md:grid-cols-4 md:grid-cols-4">
                                 <img src='/img/whatsapp.png' alt='img' className='img-v2' />
                                 <div className=" flex flex-col">

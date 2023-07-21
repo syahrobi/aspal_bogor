@@ -15,7 +15,7 @@ const Home = () => {
 	
     return (
 		<div>
-			<Header title='Jasa Pengaspalan Bogor 🛣️' />
+			<Header title='Jasa Pengaspalan Jalan 🛣️' />
 			{loading && (
 				<div className='flex items-center justify-center'>
 					<CirclesWithBar
